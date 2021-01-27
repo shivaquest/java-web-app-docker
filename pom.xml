@@ -101,12 +101,12 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Releases Nexus Repository</name>
+	      <name>Java-app-releases</name>
 	      <url>http://3.138.189.39:8081/repository/Java-app-releases/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Snapshot Nexus Repository </name>
+	      <name>Java-app-snapshots</name>
 	      <url>http://3.138.189.39:8081/repository/Java-app-snapshots/</url>
 	    </snapshotRepository>
         </distributionManagement>
